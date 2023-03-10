@@ -30,6 +30,10 @@ Will be provided soon
 Will be provided soon
 
 
+### Models
+1. MTIL: https://umkc.box.com/s/x19n3bfuqf8jw88rfqlgg1xpzsrrukh6
+2. STTL: https://umkc.box.com/s/u8y9v001wzkmmqourjnnott4jv58m8wm
+3. STL: https://umkc.box.com/s/rappdz68lqk0mh0svf09ql4j46iifdp6
 
 ## Citation
 
